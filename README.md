@@ -1,5 +1,6 @@
 # Smart-Waste-Sorting-Assistant
 Building AI course project
+
 # Summary:
 
 An AI-powered mobile app that helps people sort their waste correctly by taking a photo of an item and identifying whether it belongs to plastic, metal, paper, glass, or organic waste. This reduces recycling errors and promotes sustainable living.
